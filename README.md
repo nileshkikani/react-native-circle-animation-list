@@ -13,7 +13,7 @@
 
 ## Getting started
 
-`$ npm i react-native-circle-animation-list`
+`$ npm i react-native-circle-animation`
 
 ### Requirements
 

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-circle-animation-list",
+  "name": "react-native-circle-animation",
   "version": "0.0.1",
   "description": "circle animation",
   "main": "lib/commonjs/index",
@@ -44,7 +44,10 @@
     "circle animation",
     "animated flatlist",
     "animated circular list",
-    "react-native-circle-animation-list"
+    "react-native-circle-animation-list",
+    "Smooth Animations",
+    "Animated Components",
+    "Custom Animations"
   ],
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
