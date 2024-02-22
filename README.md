@@ -1,7 +1,7 @@
 <p align="left">
-<a href="https://www.npmjs.com/package/react-native-circle-animation"><img alt="npm version" src="https://img.shields.io/badge/npm-v0.0.7-green.svg"></a>
-<a href="https://www.npmjs.com/package/react-native-circle-animation"><img src="https://img.shields.io/badge/downloads-%3E 1-yellow.svg"></a>
-<a href="https://www.npmjs.com/package/react-native-circle-animation"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
+<a href="https://www.npmjs.com/package/@logisticinfotech/react-native-circular-animation"><img alt="npm version" src="https://img.shields.io/badge/npm-v0.0.7-green.svg"></a>
+<a href="https://www.npmjs.com/package/@logisticinfotech/react-native-circular-animation"><img src="https://img.shields.io/badge/downloads-%3E 1-yellow.svg"></a>
+<a href="https://www.npmjs.com/package/@logisticinfotech/react-native-circular-animation"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
 </p>
 
 ## Preview
@@ -10,16 +10,16 @@
 ![VerticalAnimation](./verticalAnimation.gif)&emsp;&emsp;&emsp; ![Flip Animation](./flipAnimation.gif)
 
 
-# react-native-circle-animation
+# @logisticinfotech/react-native-circular-animation
 
 
 ## Getting started
 
-`$ npm i react-native-circle-animation`
+`$ npm i @logisticinfotech/react-native-circular-animation`
 
 ### Requirements
 
-#### Before installing `react-native-circle-animation`, it is necessary to install its dependent libraries.
+#### Before installing `@logisticinfotech/react-native-circular-animation`, it is necessary to install its dependent libraries.
 
 ## Steps:
 
@@ -36,7 +36,7 @@ Below are the dependency for this package that you'll need to add to your projec
 
 ```javascript
 
-import CircleAnimationList from 'react-native-circle-animation';
+import CircleAnimationList from '@logisticinfotech/react-native-circular-animation';
 
   const renderHorizontalSlider = (item, index) => {
     return (
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
 
 ```javascript
 
-import CircleAnimationList from 'react-native-circle-animation';
+import CircleAnimationList from '@logisticinfotech/react-native-circular-animation';
 
  const renderHorizontalSlider = (item, index) => {
     return (

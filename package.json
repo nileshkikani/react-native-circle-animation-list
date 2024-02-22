@@ -1,6 +1,6 @@
 {
-  "name": "react-native-circle-animation",
-  "version": "0.0.7",
+  "name": "@logisticinfotech/react-native-circular-animation",
+  "version": "0.0.1",
   "description": "circle animation",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -45,6 +45,7 @@
     "animated flatlist",
     "animated circular list",
     "react-native-circle-animation-list",
+    "react-native-circular-animation",
     "Smooth Animations",
     "Animated Components",
     "Custom Animations"
