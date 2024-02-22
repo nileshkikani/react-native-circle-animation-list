@@ -1,6 +1,6 @@
 {
   "name": "react-native-circle-animation",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "circle animation",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

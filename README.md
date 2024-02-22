@@ -1,12 +1,14 @@
 <p align="left">
-<a href="https://www.npmjs.com/package/react-native-circle-animation"><img alt="npm version" src="https://img.shields.io/badge/npm-v1.0.15-green.svg"></a>
-<a href="https://www.npmjs.com/package/react-native-circle-animation"><img src="https://img.shields.io/badge/downloads-%3E1-yellow.svg"></a>
+<a href="https://www.npmjs.com/package/react-native-circle-animation"><img alt="npm version" src="https://img.shields.io/badge/npm-v0.0.7-green.svg"></a>
+<a href="https://www.npmjs.com/package/react-native-circle-animation"><img src="https://img.shields.io/badge/downloads-%3E 1-yellow.svg"></a>
 <a href="https://www.npmjs.com/package/react-native-circle-animation"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
 </p>
 
 ## Preview
 
-![VerticalAnimation](https://github.com/nileshkikani/react-native-circle-animation-list/blob/master/verticalAnimation.gif) ![Flip Animation](https://github.com/nileshkikani/react-native-circle-animation-list/blob/master/flipAnimation.gif) 
+#### Example 1<space>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Example 2
+![VerticalAnimation](./verticalAnimation.gif)&emsp;&emsp;&emsp; ![Flip Animation](./flipAnimation.gif)
+
 
 # react-native-circle-animation
 
