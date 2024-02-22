@@ -6,7 +6,7 @@
 
 ## Preview
 
-![VerticalAnimation](https://github.com/nileshkikani/react-native-circle-animation-list/blob/HEAD/verticalAnimation.gif) ![Flip Animation](https://github.com/nileshkikani/react-native-circle-animation-list/blob/07919f9bd25dd9a19b14a670e4a3a6cc1fccba8f/flipAnimation.gif) 
+![VerticalAnimation](https://github.com/nileshkikani/react-native-circle-animation-list/blob/master/verticalAnimation.gif) ![Flip Animation](https://github.com/nileshkikani/react-native-circle-animation-list/blob/master/flipAnimation.gif) 
 
 # react-native-circle-animation-list
 
