@@ -1,6 +1,6 @@
 {
   "name": "react-native-circle-animation",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "circle animation",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -49,6 +49,7 @@
     "Animated Components",
     "Custom Animations"
   ],
+  "license":"MIT",
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
     "@evilmartians/lefthook": "^1.5.0",
